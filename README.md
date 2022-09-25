@@ -29,10 +29,10 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, E-mail, Instagram ou
  
  
  <div align="center">
- <a href="https://www.linkedin.com/in/felipepetriw/" target="_blank"><img align="center" alt="40" width="50" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653490588~hmac=2483a8dfd4ee710aa21efa1c825c9215" target="_blank"></a>
- <a href="mailto:felipe.petriw.ads@gmail.com" target="_blank"><img align="center" alt="40" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
- <a href="https://www.instagram.com/felipe_petriw/" target="_blank"><img  align="center"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width='50' style="max-width:100%;"/></a>
- <a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank"><img  align="center" src="https://cdn-icons.flaticon.com/png/512/3992/premium/3992601.png?token=exp=1653234692~hmac=86f495b55985bb94a8b59bedbc0d2ae0" width='50' style="max-width:100%;"/></a>
+ <a href="https://www.linkedin.com/in/felipepetriw/" target="_blank"><img align="center" alt="40" width="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>   
+ <a href="mailto:felipe.petriw.ads@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> 
+ <a href="https://www.instagram.com/felipe_petriw/" target="_blank"><img  align="center"  src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width='50' style="max-width:100%;"/></a>     
+ <a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504957.png" width='50' style="max-width:100%;"/></a>
  </div>
  
  </br>
