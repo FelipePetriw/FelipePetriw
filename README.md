@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! 😁</h1>
 - 👋 Olá, eu sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> 😃️</br>
 - 👀 Tenho interesse em evoluir profissionalmente como desenvolvedor front-end.</br>
-- 🌱 Atualmente estou aprendendo HTML, CSS, Javascript.</br>
+- 🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap4, Javascript.</br>
 
 </br>
 
