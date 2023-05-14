@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! 😁</h1>
 - 👋 Olá, eu sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> 😃️</br>
 - 👀 Tenho interesse em evoluir profissionalmente como desenvolvedor front-end.</br>
-- 🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap4, Javascript.</br>
+- 🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap4, Javascript, PHP.</br>
 
 </br>
 
@@ -15,6 +15,7 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
  
  <br>
