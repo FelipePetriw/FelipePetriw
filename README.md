@@ -31,8 +31,7 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, E-mail, Instagram ou
  
  <div align="center">
  <a href="https://www.linkedin.com/in/felipepetriw/" target="_blank"><img align="center" alt="40" width="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>   
- <a href="mailto:felipe.petriw.ads@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> 
- <a href="https://www.instagram.com/felipe_petriw/" target="_blank"><img  align="center"  src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width='50' style="max-width:100%;"/></a>     
+ <a href="mailto:felipe.petriw.ads@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>     
  <a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504957.png" width='50' style="max-width:100%;"/></a>
  </div>
  
