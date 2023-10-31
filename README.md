@@ -34,9 +34,9 @@ console.log(felipePetriw);
 
 ### Habilidades Principais:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap4-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Ferramentas:
@@ -49,14 +49,15 @@ console.log(felipePetriw);
 
 ### Outros Conhecimentos:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
+![Vite](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=WordPress&labelColor=0D1117)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-0D1117?style=for-the-badge&logo=Netlify&labelColor=0D1117)&nbsp;
+![CodePen](https://img.shields.io/badge/-CodePen-0D1117?style=for-the-badge&logo=CodePen&labelColor=0D1117)&nbsp;
+![Notepad++](https://img.shields.io/badge/-Notepad++-0D1117?style=for-the-badge&logo=Notepad++&labelColor=0D1117)&nbsp;
+
   
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -67,6 +68,6 @@ console.log(felipePetriw);
 
  ### Contact:
 
-<a href="https://www.linkedin.com/in/felipepetriw/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="mailto:felipe.petriw.ads@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/felipepetriw/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117)</a>
+<a href="mailto:felipe.petriw.ads@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&labelColor=0D1117)</a>
+<a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank">![WhatsApp](https://img.shields.io/badge/-WhatsApp-0D1117?style=for-the-badge&logo=WhatsApp&labelColor=0D1117)</a>
