@@ -36,21 +36,27 @@ console.log(felipePetriw);
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![microsoft-sql-server](https://img.shields.io/badge/Sql--Server-0d1117?logo=microsoft-sql-server&style=for-the-badge)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
   
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -60,44 +66,20 @@ console.log(felipePetriw);
 
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
- <div align="center">
-  <a href="https://github.com/FelipePetriw">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipePetriw&show_icons=true&theme=highcontrast"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePetriw&layout=compact&theme=highcontrast"/>
-</div>
- 
-<div div align="center"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
- 
- <br>
- 
- <h1 align="center">Conecte-se comigo:</h1>
- 
-Olá, sou Felipe Petriw. 
- 
-Entusiasta da tecnologia, estou iniciando na área de desenvolvimento web, focando na parte de frontend, tenho realizado alguns cursos da área e interagindo com outros desenvolvedores que tem auxiliado em meu crescimento para me tornar um desenvolvedor frontend.
- 
-Se quiser interagir comigo, entre em contato pelo Linkedin, E-mail, Instagram ou WhatsApp abaixo.
- 
- 
- <div align="center">
- <a href="https://www.linkedin.com/in/felipepetriw/" target="_blank"><img align="center" alt="40" width="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>   
- <a href="mailto:felipe.petriw.ads@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>     
- <a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504957.png" width='50' style="max-width:100%;"/></a>
- </div>
- 
- </br>
- 
+
+ ### Conecte-se comigo:
+
+
+<a href="https://www.linkedin.com/in/felipepetriw/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="mailto:felipe.petriw.ads@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://api.whatsapp.com/send?phone=5548998563067&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%2C%20gostaria%20de%20conversar%20contigo!" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
+  
 <div align="center"> 
    
    ![Snake animation](https://github.com/FelipePetriw/FelipePetriw/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
