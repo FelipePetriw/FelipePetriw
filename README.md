@@ -22,7 +22,7 @@ console.log(felipePetriw);
   
 - 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado no desenvolvimento Front-end, em aprender cada vez mais a respeito para em breve me tornar um Fullstack.
 
-- 📚 Estou iniciando os estudo sobre React e Figma, contudo já tenho conhecimento com JavaScript, Sass, Tailwindcss, Bootstrap4, além de HTML5 e CSS3... pois uma coisa que sempre dizem é "Conhecimento nunca é demais".
+- 📚 Estou iniciando os estudo sobre React e Figma, contudo já tenho conhecimento com JavaScript, Sass, Tailwindcss, Bootstrap4, além de HTML5 e CSS3... pois como dizem: "Conhecimento nunca é demais".
 
 - 🤖 Curto demais os processos de produção que as industrias elaboram, é incrível ver todo o sistema de automação evoluindo e robôs ficando cada vez melhores.
 
