@@ -18,7 +18,7 @@ console.log(felipePetriw);
  ---
 
 ### Sobre mim:
-- 👋 Olá, sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> apaixonado por desenvolvimento de software, busco sempre me capacitar e aprender mais sobre o mundo do desenvolvimento web ❤️.
+- 👋 Olá, sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> apaixonado por desenvolvimento de software, busco sempre me capacitar e aprender mais sobre o mundo do desenvolvimento web e suas aplicações ❤️.
   
 - 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado no desenvolvimento Front-end, em aprender cada vez mais a respeito para em breve me tornar um Fullstack.
 
