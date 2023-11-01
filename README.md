@@ -66,7 +66,7 @@ console.log(felipePetriw);
 
 <br>
 
- ### Contact:
+ ### Contatos:
 
 <a href="https://www.linkedin.com/in/felipepetriw/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117)</a>
 <a href="mailto:felipe.petriw.ads@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&labelColor=0D1117)</a>
