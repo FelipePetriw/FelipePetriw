@@ -9,7 +9,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-let felipePetriw = new dev('Felipe Petriw', 30, 'Front-end developer');
+let felipePetriw = new dev('Felipe Petriw', 30, 'Web Developer');
 console.log(felipePetriw);
 ```
 <img align="right" width="350" height="350" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
