@@ -9,7 +9,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-let felipePetriw = new dev('Felipe Petriw', 30, 'Web Developer');
+let felipePetriw = new dev('Felipe Petriw', 30, 'Developer');
 console.log(felipePetriw);
 ```
 <img align="right" width="350" height="350" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
@@ -20,7 +20,7 @@ console.log(felipePetriw);
 ### Sobre mim:
 - 👋 Olá, sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> apaixonado por desenvolvimento de software, busco sempre me capacitar e aprender mais sobre o mundo do desenvolvimento web e suas aplicações ❤️.
   
-- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado no desenvolvimento Front-end, em aprender cada vez mais a respeito para em breve me tornar um Fullstack.
+- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado no desenvolvimento Back-end, em aprender cada vez mais a respeito para em breve me tornar um Fullstack.
 
 - 📚 Estou iniciando os estudo sobre React e Figma, contudo já tenho conhecimento com JavaScript, Sass, Tailwindcss, Bootstrap4, além de HTML5 e CSS3... pois como dizem: "Conhecimento nunca é demais".
 
