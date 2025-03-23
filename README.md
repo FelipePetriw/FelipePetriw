@@ -18,11 +18,11 @@ console.log(felipePetriw);
  ---
 
 ### Sobre mim:
-- 👋 Olá, sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> apaixonado por desenvolvimento de software, busco sempre me capacitar e aprender mais sobre o mundo do desenvolvimento web e suas aplicações ❤️.
+- 👋 Olá, sou <a href="https://www.linkedin.com/in/felipepetriw/"><i>Felipe Petriw</i></a> apaixonado por desenvolvimento de software, busco sempre me capacitar e aprender mais sobre o mundo do desenvolvimento e suas aplicações ❤️.
   
 - 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado no desenvolvimento Back-end, em aprender cada vez mais a respeito para em breve me tornar um Fullstack.
 
-- 📚 Estou iniciando os estudo sobre React e Figma, contudo já tenho conhecimento com JavaScript, Sass, Tailwindcss, Bootstrap4, além de HTML5 e CSS3... pois como dizem: "Conhecimento nunca é demais".
+- 📚 Estou iniciando os estudo sobre Spring Boot, contudo já tenho conhecimento com Java, PHP, JavaScript, TypeScript, além de banco de dados MySQL, PostgreSQL, MongoDB... pois como dizem: "Conhecimento nunca é demais".
 
 - 🤖 Curto demais os processos de produção que as industrias elaboram, é incrível ver todo o sistema de automação evoluindo e robôs ficando cada vez melhores.
 
