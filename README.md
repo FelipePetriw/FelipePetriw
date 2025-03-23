@@ -12,7 +12,7 @@ function dev(name, age, work) {
 let felipePetriw = new dev('Felipe Petriw', 30, 'Developer');
 console.log(felipePetriw);
 ```
-<img align="right" width="350" height="350" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
+<img align="right" width="350" height="350" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-digitacao-de-codigo_114360-3581.jpg?t=st=1742737177~exp=1742740777~hmac=8546a1a86d9ccea5b08b148c605072a6f336b2d9e946655a368a06583b1fcd40&w=740">
  
  
  ---
